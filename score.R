@@ -1,15 +1,4 @@
 
-
-'
-Script      : Score
-Created     : May, 2016
-Author(s)   : iHub Research
-Version     : v1.0
-License     : Proprietary
-
-Description : compute the sentiment of sentence(s)
-'
-
 #load pre-defined scripts
 source('sentiment.R')
 
